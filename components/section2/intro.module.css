@@ -1,0 +1,36 @@
+.backimg{
+    display: flex;
+    gap: 106px;
+    margin-left:104px ;
+    margin-right: 104px; 
+    align-items: center;
+}
+.img{
+    border-radius: 30px;
+}
+.titr{
+    display: flex;
+    gap: 62px;
+}
+.text{
+    font-size: 40px;
+    color: #2b1b12;
+
+}
+.p{
+    font-size: 18px;
+    color: #4f3527;
+    width: 514px;
+}
+.title1{
+    color: #4f3527;
+    font-size: 48px;
+    
+}
+.span{
+    font-size: 18px;
+    color: #4f3527;
+}
+.right1{
+    align-items: center;
+}

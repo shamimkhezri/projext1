@@ -1,0 +1,20 @@
+.title2{
+    text-align: center;
+    align-items: center;
+    margin-top: 145px;
+    margin-bottom: 64px;
+}
+.text2{
+    font-size: 40px;
+    color: #2b1b12;
+    text-align: center;
+}
+.titr2{
+    font-size: 18px;
+    color: #2b1b12;
+    text-align: center;
+}
+.card1{
+    display: flex;
+    background-color: blue;
+}

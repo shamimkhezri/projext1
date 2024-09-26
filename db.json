@@ -1,0 +1,28 @@
+{
+    "place":[
+    {
+        "id":1,
+        "image":"https://www.imghippo.com/i/7qelQ1726682445.png",
+        "title":"Expert Guidance",
+        "text":"Benefit from our team's seasoned expertise for a smooth buying experience"
+    },
+    {
+        "id":2,
+        "image":"https://www.imghippo.com/i/qYGE51726682423.png",
+        "title":"Personalized Service",
+        "text":"Our services adapt to your unique needs, making your journey stress-free"
+    },
+    {
+        "id":3,
+        "image":"https://www.imghippo.com/i/VpbRD1726682401.png",
+        "title":"Transparent Process",
+        "text":"Stay informed with our clear and honest approach to buying your home"
+    },
+    {
+        "id":4,
+        "image":"https://www.imghippo.com/i/PA2eK1726682557.png",
+        "title":"Exceptional Support",
+        "text":"Providing peace of mind with our responsive and attentive customer service"
+    }
+    ]
+}
